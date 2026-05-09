@@ -1,5 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi 👋
 
+## Computer Science Student
+
+### Skills
+- C Programming
+- Data Structures
+- HTML
+- CSS
+- JavaScript
+
+### Currently Learning
+- SQL
+- Web Development
+
+### Projects
+- Stack Implementation
+- Infix to Postfix
+- Tree Programs
 <!--
 **06vaishnavi0806/06vaishnavi0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
